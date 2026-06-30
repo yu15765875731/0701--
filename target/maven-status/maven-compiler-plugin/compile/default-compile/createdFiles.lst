@@ -1,0 +1,16 @@
+com\example\demo\DemoApplication.class
+com\example\demo\entity\User.class
+com\example\demo\service\RedisService.class
+com\example\demo\aop\LoggingAspect.class
+com\example\demo\controller\RocketMqController.class
+com\example\demo\service\UserService.class
+com\example\demo\service\impl\RedisServiceImpl.class
+com\example\demo\mq\RocketMqConsumer.class
+com\example\demo\repository\UserRepository.class
+com\example\demo\config\WebConfig.class
+com\example\demo\controller\RedisController.class
+com\example\demo\config\RedisConfig.class
+com\example\demo\mq\RocketMqProducer.class
+com\example\demo\interceptor\AuthInterceptor.class
+com\example\demo\controller\UserController.class
+com\example\demo\service\impl\UserServiceImpl.class

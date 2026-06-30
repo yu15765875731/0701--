@@ -1,0 +1,16 @@
+E:\0701框架\src\main\java\com\example\demo\controller\UserController.java
+E:\0701框架\src\main\java\com\example\demo\mq\RocketMqConsumer.java
+E:\0701框架\src\main\java\com\example\demo\entity\User.java
+E:\0701框架\src\main\java\com\example\demo\service\impl\UserServiceImpl.java
+E:\0701框架\src\main\java\com\example\demo\service\impl\RedisServiceImpl.java
+E:\0701框架\src\main\java\com\example\demo\service\UserService.java
+E:\0701框架\src\main\java\com\example\demo\DemoApplication.java
+E:\0701框架\src\main\java\com\example\demo\service\RedisService.java
+E:\0701框架\src\main\java\com\example\demo\config\WebConfig.java
+E:\0701框架\src\main\java\com\example\demo\config\RedisConfig.java
+E:\0701框架\src\main\java\com\example\demo\repository\UserRepository.java
+E:\0701框架\src\main\java\com\example\demo\interceptor\AuthInterceptor.java
+E:\0701框架\src\main\java\com\example\demo\controller\RocketMqController.java
+E:\0701框架\src\main\java\com\example\demo\aop\LoggingAspect.java
+E:\0701框架\src\main\java\com\example\demo\controller\RedisController.java
+E:\0701框架\src\main\java\com\example\demo\mq\RocketMqProducer.java
