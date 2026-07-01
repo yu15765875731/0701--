@@ -1,3 +1,5 @@
+
+
 ## 目录说明
 
 - src/main/java：业务代码
@@ -85,6 +87,7 @@
 - 本地已在 `E:\apache-maven-3.9.16` 下载并可用 Maven，项目可以使用该 Maven 构建。
 - `application.yml` 已补充 RocketMQ 的基础配置（请在实际环境中替换 NameServer 地址）。
 - 本地 Redis 检测：未发现 6379 端口上的可用 Redis 服务（请启动 Redis 或使用 Docker）。
+- 框架由AI搭建，整体功能由自己进行配置调整，目前代码尚有不能运行的地方，没写前端，期待导师的指点，谢谢导师您辛苦了！
 
 如需，我可以接着：
 
